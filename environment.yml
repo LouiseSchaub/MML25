@@ -12,5 +12,3 @@ dependencies:
   - partd
   - bokeh
   - dask
-  - sklearn
-  - ucimlrepo
